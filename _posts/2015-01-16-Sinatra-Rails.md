@@ -3,8 +3,7 @@ layout: post
 title: "The benefit of learning Sinatra before Rails"
 quote: "My first WDI project reflection-- with quotes from DHH!"
 image:
-      url: http://3.bp.blogspot.com/-RLyLw0MR9AM/Ugja8HkHbqI/AAAAAAAALMA/HcqjkTsf94c/s1600/frank_sinatra.jpg
-video: false
+      url: /media/2015-01-16-Sinatra-Rails/sinatra.jpg
 comments: true
 theme_color: 302F2D
 ---
