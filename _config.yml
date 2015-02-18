@@ -1,0 +1,64 @@
+# Dependencies
+markdown:	kramdown
+# Permalinks
+permalink:	/blog/:title
+
+# Setup
+title:            Andy Leonard's Site
+tagline:          'blog'
+description:      "Andy Leonard's Site"
+url:              http://ALeonard90.github.io
+baseurl:          http://ALeonard90.github.io
+commentsystem:    google
+disqus:           example
+
+author:
+  name:           Andy Leonard          
+
+paginate:         5
+
+# Custom vars
+icon:             /assets/images/icon.png
+cover:            /assets/images/caribou.jpg
+
+social:
+  - icon:         twitter
+    url:          https://twitter.com/PushaDZ
+    desc:         Follow me on Twitter
+
+  - icon:         github
+    url:          https://github.com/ALeonard90
+    desc:         Fork me on Github
+
+  - icon:         linkedin
+    url:          https://linkedin.com/ALeonard90
+    desc:         Add me on LinkedIn
+
+  - icon:         audio
+    url:          https://soundcloud.com/ALeonard90
+    desc:         Listen to my tunes on Soundcloud
+
+
+menu:
+  - title:        Home
+    url:          /
+
+  - title:        About
+    url:          /about
+
+  - title:        Resume
+    url:          /Resume
+
+copyright:
+  author:         Andy Leonard
+  url:            http://ALeonard90.github.io
+  type_title:     Some rights reserved
+  type_url:       http://creativecommons.org/licenses/by-nc/2.5
+
+parallax:         false
+
+# Google Analytics (add the UA Code, e.g.: UA-xxxxxxxx-1)
+google_analytics:  
+
+# Default Theme Color for Chrome on Android Lollipop (Use RGB ColorCode without `#`, e.g.: `db5945`)
+theme_color:       7E9576
