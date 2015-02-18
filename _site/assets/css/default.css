@@ -566,10 +566,10 @@ pre code {
 	width: 200px; 
 }
 
-/*#resume{
-	margin-right: 25%;
-	margin-left: 25%;
-}*/
+#resume{
+	margin-right: 10%;
+	margin-left: 10%;
+}
 
 .fa.fa-chevron-right {
   text-align: center;
