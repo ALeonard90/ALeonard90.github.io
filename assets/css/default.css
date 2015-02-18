@@ -568,8 +568,6 @@ pre code {
 
 #resume{
 	margin-right: 25%;
-	height: 80%;
-	width: 80%;
 }
 
 .fa.fa-chevron-right {
@@ -598,4 +596,9 @@ color: #0A7660;
 
 .page-quote{
 	background-color: rgba(1,1,1,.4);
+}
+
+.resume-img{
+	width: 80%;
+	height: 80%;
 }
