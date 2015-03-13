@@ -34,10 +34,10 @@ image: true
 
 <div id="dctunez" class="hidden">
 	<h2>DC Tunez</h2>
-	<a class="project-link" href="#" target="_blank"><img src="/assets/images/dctunez.png" /></a>
+	<a class="project-link" href="#" target="_blank"><img src="/assets/images/dctunez.png"></a>
 	<p class="project-blurb">I used the Ticketfly API to find local concerts. I then passed the artist info to the Spotify API to generate streamable playlists.</p>
 	<p class="tech">Technology Used: Ruby, Rails, JQuery, Ticketfly and Spotify APIs</p>
-	<a class="project-link" href="#" target="_blank">See the site</a>
+	<a class="project-link" href="http://dctunez.herokuapp.com/" target="_blank">See the site</a>
 	<a class="project-link" href="https://github.com/ALeonard90/DCTunez" target="_blank">See the code</a>
 	<a href="#nourishing"><i class="fa fa-chevron-right"></i></a>
 </div>
