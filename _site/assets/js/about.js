@@ -9,4 +9,9 @@ $(document).ready(function() {
 		// $('#wanderlust').hide();
 		$('#nourishing').removeClass('hidden');
 	});
+	$('a[href="#dctunez"]').click(function() {
+		$('#wanderlust').addClass('hidden');
+		// $('#wanderlust').hide();
+		$('#dctunez').removeClass('hidden');
+	});
 });
