@@ -21,7 +21,7 @@ header, footer {
 	background-repeat: no-repeat;
 	background-position: top;
 	background-size: cover;
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 header a, footer a {
@@ -381,7 +381,7 @@ pre code {
 .menu {
 	display: block;
 	cursor: pointer;
-	background-color: rgba(26, 26, 26, 0.35);
+	background-color: rgba(26, 26, 26, 0.75);
 	width: 30px;
 	height: 30px;
 	top: 12px;
