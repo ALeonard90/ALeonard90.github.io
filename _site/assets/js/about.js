@@ -6,6 +6,7 @@ $(document).ready(function() {
 	});
 	$('a[href="#nourishing"]').click(function() {
 		$('#wanderlust').addClass('hidden');
+		$('#dctunez').addClass('hidden');
 		// $('#wanderlust').hide();
 		$('#nourishing').removeClass('hidden');
 	});
