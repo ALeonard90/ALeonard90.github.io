@@ -568,8 +568,8 @@ pre code {
 
 #resume-img{
 	display: block;
-	margin-right: auto;
-	margin-left: auto;
+	margin-right: 25%;
+	margin-left: 25%;
 }
 
 .fa.fa-chevron-right {
