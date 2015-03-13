@@ -567,8 +567,9 @@ pre code {
 }
 
 #resume-img{
-	margin-right: 10%;
-	margin-left: 10%;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 .fa.fa-chevron-right {
