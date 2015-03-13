@@ -6,7 +6,13 @@ $(document).ready(function() {
 	});
 	$('a[href="#nourishing"]').click(function() {
 		$('#wanderlust').addClass('hidden');
+		$('#dctunez').addClass('hidden');
 		// $('#wanderlust').hide();
 		$('#nourishing').removeClass('hidden');
+	});
+	$('a[href="#dctunez"]').click(function() {
+		$('#wanderlust').addClass('hidden');
+		// $('#wanderlust').hide();
+		$('#dctunez').removeClass('hidden');
 	});
 });
