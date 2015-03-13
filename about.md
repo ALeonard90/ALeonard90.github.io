@@ -41,5 +41,4 @@ image: true
 	<a class="project-link" href="https://github.com/ALeonard90/DCTunez" target="_blank">See the code</a>
 	<a href="#nourishing"><i class="fa fa-chevron-right"></i></a>
 </div>
-
 </div>
