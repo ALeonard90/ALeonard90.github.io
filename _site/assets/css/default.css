@@ -567,8 +567,9 @@ pre code {
 }
 
 #resume-img{
-	margin-right: 10%;
-	margin-left: 10%;
+	display: block;
+	margin-right: 25%;
+	margin-left: 25%;
 }
 
 .fa.fa-chevron-right {
@@ -577,6 +578,7 @@ pre code {
   float: right;
   color: white;
 }
+
 
 .hidden{
 	display: none;

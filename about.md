@@ -6,11 +6,12 @@ image: true
 ---
 
 <div class="message">
-  	Here's what I've built @ General Assembly.
+	<img class="headshot" src="/assets/images/headshot.jpg">
+  	<p>Here's what I've built @ General Assembly.</p>
+	
 </div>
 
 <div class="proyecto">
-
 
 <div id="nourishing">
 	<h2>Nourishing Neighbors</h2>
