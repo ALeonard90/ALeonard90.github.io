@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: nourishing
 title: First GA Project
 image: true
 ---

@@ -5,7 +5,7 @@ image: true
 ---
 
 
-<div id="wanderlust" class="hidden">
+<div id="wanderlust">
 	<h2>Wanderlust</h2>
 	<a id="project-link" href="#" target="_blank"><img src="/assets/images/Wanderlust.png"></a>
 	<p class="project-blurb">My group created a website that takes a person's location and finds (and provides driving directions to) the nearest trails.</p>
