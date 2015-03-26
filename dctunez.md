@@ -1,6 +1,6 @@
 ---
 layout: dctunez
-title: DC Tunez
+title: Final GA Project
 image: true
 ---
 

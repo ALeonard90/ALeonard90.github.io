@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Nourishing Neighbors
+title: First GA Project
 image: true
 ---
 

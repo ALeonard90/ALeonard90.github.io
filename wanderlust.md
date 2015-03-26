@@ -1,6 +1,6 @@
 ---
 layout: wanderlust
-title: Wanderlust
+title: GA Group Project
 image: true
 ---
 
