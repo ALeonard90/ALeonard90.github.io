@@ -209,13 +209,11 @@ h3 {
 }
 
 #article a {
-	border-bottom: 2px solid #fff;
 	-webkit-transition: 0.5s ease;
 	transition: 0.5s ease;
 }
 
 #article a:hover {
-	border-bottom: 2px solid #2a7ead;
 	-webkit-transition: 0.5s ease;
 	transition: 0.5s ease;
 }
