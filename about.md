@@ -4,11 +4,8 @@ title: I'm a full stack web developer and articulate visioneer who tailors inspi
 permalink: about/
 image: true
 ---
-
 <div class="message">
-	<img class="headshot" src="/assets/images/headshot.jpg">
   	<p>Here's what I've built @ General Assembly.</p>
-	
 </div>
 
 <div class="proyecto">
