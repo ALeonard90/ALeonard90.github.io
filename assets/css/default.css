@@ -574,9 +574,10 @@ pre code {
 
 .fa.fa-chevron-right {
   text-align: center;
-  font-size: 2em;
+  font-size: 5em;
   float: right;
   color: white;
+  clear: left;
 }
 
 
@@ -588,7 +589,7 @@ pre code {
 	color: black;
 }
 
-.project-link{
+#project-link{
 	text-decoration: none;
 	margin-right: 5%;
 }
