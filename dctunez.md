@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: dctunez
 title: DC Tunez
 image: true
 ---
