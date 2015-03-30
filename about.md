@@ -4,6 +4,9 @@ title: I'm a full stack web developer and articulate visioneer who tailors inspi
 permalink: about/
 image: true
 ---
+<div class="message">
+Here's what I built @ General Assembly.
+</div>
 
 <div class="proyecto">
 

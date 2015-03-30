@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Risk, Fear, Worry"
-quote: "Seth Godin Repost"
+quote: A Seth Godin Repost
 image:
       url: /media/2015-02-6-Risk-Fear-Worry/seth-godin.jpg
 video: false
