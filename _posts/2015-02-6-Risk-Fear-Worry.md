@@ -8,6 +8,8 @@ video: false
 comments: true
 ---
 
+Risk, Fear, Worry
+
 They're not the same.
 
 Risk is all around us. When we encounter potential points of failure, we're face to face with risk. And nothing courts risk more than art, the desire to do something for the first time--to make a difference.
